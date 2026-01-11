@@ -1,0 +1,2 @@
+# Social-Media-usage-and-impact-on-academic-performance
+This project presents an interactive Tableau dashboard and story analyzing social media usage patterns and their behavioral impacts on students. The analysis focuses on dynamically classifying users based on usage intensity and examining how different impact dimensions—academic performance, sleep deprivation, and social conflicts among students
